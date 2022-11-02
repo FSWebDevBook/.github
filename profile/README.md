@@ -1,5 +1,5 @@
 # <i>Full Stack Web Development From the Ground Up</i>
-_Constructing Responsive, Accessible, Usable, Useful, Correct and Robust MERN Apps_
+_Principles, Practices, and Technologies_
 
 <b>By Chris Hundhausen<br>
 Published by Morgan Kaufmann</b>
